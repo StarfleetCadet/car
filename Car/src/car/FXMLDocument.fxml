@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane id="AnchorPane" prefHeight="343.0" prefWidth="449.0" xmlns:fx="http://javafx.com/fxml/1" xmlns="http://javafx.com/javafx/8.0.65" fx:controller="car.FXMLDocumentController">
+   <children>
+      <Button fx:id="btnRun" layoutX="58.0" layoutY="55.0" mnemonicParsing="false" onAction="#runCar" text="Run" />
+      <Button fx:id="btnStop" layoutX="58.0" layoutY="226.0" mnemonicParsing="false" onAction="#stopCar" text="Stop" />
+      <Label fx:id="carLabel" layoutX="273.0" layoutY="84.0" prefHeight="142.0" prefWidth="154.0" text="Status">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>
