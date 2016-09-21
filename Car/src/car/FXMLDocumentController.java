@@ -28,25 +28,37 @@ public class FXMLDocumentController implements Initializable {
     @FXML
     private Label carLabel;
     
+    Car car = new Car();
+    
     /**
      * Initializes the controller class.
      */
     @Override
     public void initialize(URL url, ResourceBundle rb) 
     {
-        carLabel.setText("Auto parkt");
+        updateCarLabel();
     }
     
     @FXML
     public void runCar(ActionEvent event)
     {
-        carLabel.setText("Auto Fährt");
-      
+        car.setRunning(true);
+        updateCarLabel();
     }
     
     @FXML
     public void stopCar(ActionEvent event)
     {
-      carLabel.setText("Auto parkt");
+        car.setRunning(false);
+        updateCarLabel();
+    }
+    
+    public void updateCarLabel() 
+    {
+        if (car.isRunning()) {
+            carLabel.setText("Auto fährt!");
+        } else {
+            carLabel.setText("Auto parkt");
+        }
     }
 }

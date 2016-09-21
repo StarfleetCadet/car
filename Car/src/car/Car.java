@@ -5,37 +5,27 @@
  */
 package car;
 
-import javafx.application.Application;
-import javafx.event.ActionEvent;
-import javafx.event.EventHandler;
-import javafx.fxml.FXMLLoader;
-import javafx.scene.Parent;
-import javafx.scene.Scene;
-import javafx.scene.control.Button;
-import javafx.scene.layout.StackPane;
-import javafx.stage.Stage;
-
 /**
  *
  * @author aviva
  */
-public class Car extends Application {
-    
-    @Override
-    public void start(Stage stage) throws Exception {
-        Parent root = FXMLLoader.load(getClass().getResource("FXMLDocument.fxml"));
-        
-        Scene scene = new Scene(root);
-        stage.setTitle("Autofahren");
-        stage.setScene(scene);
-        stage.show();
+public class Car 
+{
+  private boolean running = false;  
+
+    /**
+     * @return the isRunning
+     */
+    public boolean isRunning() {
+        return running;
     }
 
     /**
-     * @param args the command line arguments
+     * @param isRunning the isRunning to set
      */
-    public static void main(String[] args) {
-        launch(args);
+    public void setRunning(boolean isRunning) {
+        this.running = isRunning;
     }
-    
+  
+  
 }
