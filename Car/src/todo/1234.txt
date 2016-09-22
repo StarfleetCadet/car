@@ -1,0 +1,41 @@
+Guten Abend,
+
+für heute bin ich erst mal bedient.
+Json erfordert doch ein bischen mehr Verständnis als ich im Moment aufbringen kann.
+Ich habe gefühlt ewig gebraucht, um festzustellen das ich keine passenden Klassen in der Standard Library habe, 
+und nachdem ich mir dessen bewusst wurde und im web dann potentiell passendes gefunden hatte, bedarf es noch einiges an rum gesuche
+wie ich den Kram importiert bekomme...soweit bin ich dann auch gekommen.
+Aber nach weiterer Recherche bin ich auf Dinge wie z.B. den Datentyp Field gestoßen, 
+von dessen Existens mir bis dahin auch nichts bekannt war.
+Wie zweckmäßig Json ist habe ich, denke ich, verstanden (vor allem da es so ziemlich mit jeder Sprache korrespondiert und Dinge 
+vereinfacht, sofern man sinnvolle Klassen erstellt) zumindest theoretisch.
+Aber irgendwas zu copy/pasten bringts nicht, denke ich, es zu verstehen ist etwas anderes.
+Also das muss ich es noch weiter verfolgen (da ich insgesamt allgemein noch große Probleme mit Programm-Struktur, Methoden und 
+Klassenaufrufen ,und was nicht sonst noch alles, habe)
+
+Das Car ohne FXML zu basteln ist bestimmt machbar, und die theoretischen Fragen zu erfassen und dann verbal zusammen zu fassen 
+werde ich möglicherweise hinbekommen. Aber schlussendlich sind das dann wohl nur Worte. Ich sage immer, es gibt genau zwei Wege 
+Wissen zu erlangen:
+1. Durch Information (semi wertvoll) 2. Durch eigenes Erleben (das einzig Wahre) Dafür braucht es allerdings noch einiges.
+Denn was ich bis zum abwinken in der Schule durchexerziert habe (ein neues Objekt erzeugen, und noch eins, 
+und noch eins, und noch eins, und mit diesen dann in If/else Bedingungsanweisungen etwas zu veranstalten, oder mal in einer 
+for Schleife ein Array zu durchlaufen, war die bisherige Erleuchtung.
+
+Wie ich was "tagge" in Git ist mir auch noch nicht ganz klar.
+Also unter dem Strich...gestern war ein guter Tag, heute nicht ganz so schön (und damit um zu gehen, muss ich parallel lernen, 
+gute Lektion)
+
+Was mir auch nicht wirklich klar ist, was ich committen soll. Wenn ich sinnloses Zeug fabriziere (also z.B. auf der Konsole 
+ausgegeben wird was ich mir erhoffe, und mich dann freue wie ein Kleinkind) das will niemand sehen, glauben Sie mir.
+Oder in Textform "Hallo hier bin ich, versuche gerade das und das zu begreifen" OK.
+Es braucht wohl noch bis sich das Alles einspielt.
+
+So at this point it really overtaxed me to describe all my struggle and failure in english. 
+
+Genug Kopfsalat für heute, ich hoffe das ich das hier gepusht bekomme (was hat es mit der ominösen Zahl als Name für die Textdatei
+auf sich, muss mir das was sagen?)
+
+Gruß, Dluzak
+
+
+
