@@ -37,5 +37,18 @@ auf sich, muss mir das was sagen?)
 
 Gruß, Dluzak
 
+Hallo,
+habe ein paar vernünftig scheinende Java-Tutorials gefunden, unter anderem ein 
+Video-Tutorial...ist schön erklärt, und so übe ich noch mal Grundlagen, verändere
+die kleinen Anwendungen nach meinem Spaß, und versuche (wenn ich Video anhalte)
+selber drauf zu kommen, wie es weiter geht...ein Drittel hab ich erst hinter mir
+und macht Spaß (ein zwei erleuchtende, Groschen fallende Momente hatte ich auch schon
+:-) dazu werde ich mich dann heute mit FX selber machen beschäftigen...
+Ich merke immer wieder...mein größtes Problem: Programmablauf Struktur! 
+Wo gehört was hin, an welcher Stelle muss was passieren u.s.w 
+(das macht den größten Teil der Unsicherheit aus) In diesem Sinne, frohes Schaffen.
+
+Gruß, Dluzak
+
 
 
