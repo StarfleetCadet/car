@@ -51,4 +51,35 @@ Wo gehört was hin, an welcher Stelle muss was passieren u.s.w
 Gruß, Dluzak
 
 
+Mahlzeit,
+
+
+Ich berichte mal...denn was sich bei mir abspielt war bisher so nicht der Fall 
+(die Verknüpfung positiver Erlebnisse mit neuronaler Programmierung meines Hirns)
+Allein dadurch, das ich die letzten Tage noch mal ganz grundlegende Dinge wiederhole und auch beginne zu verstehen
+versetzt mich in die Lage, alte Schulprojekte nun nachvollziehen zu können.
+Kram der ein Jahr alt ist, und den ich damals von der Wand abgeschrieben habe (nur darauf bedacht, kein ; oder {} zu übersehen
+damit nichts rot ist und irgendwas ausgegeben wird!) nehme ich nacheinander außeinander und es ergibt tatsächlich Sinn.
+Wann immer ich mal versucht habe was zu verstehen (beim abschreiben, oder zwei tage später) starrte ich auf den Code
+und es hätten dort genau so gut arabische oder chinesische Schriftzeichen stehen können!
+
+Nachdem ich das ganze Zeug ca. ein Jahr lang nicht mehr gesehen habe und jetzt raufschaue...ist der Wald deutlich gelichtet!!
+Noch lange kein Griff nach den Sternen (z.B. versuche ich grad was mit einer fünffach verschachtelten for Schleife zu schreiben 
+die mit einem String was malen soll auf der Konsole(da kann man im Kopf schon mal ne Endlosschleife kriegen!!)
+Aber es wird, Schritt für Schritt. 
+Unter dem Strich gestaltet es sich so: Man hat die ersten Aha,- und Erfolgserlebnisse, danach zwei neue Probleme.
+Dann irgendwann zwei Aha's und drei neue Probleme...u.s.w. (das ist der Effekt auf den ich gewartet habe,
+denn ich hatte die Hoffnung nicht aufgeben wollen das es Spaß machen kann)
+
+So, nach einem ordentlichen Mittagessen und Stackoverflow im Kopf, noch ein Nickerchen, 
+mal schauen wie es nachher weitergeht...aus mir wird DOCH noch ein richtiger Nerd! 
+Ich glaube ich habe vier Tage das Haus nicht verlassen!!
+ich wünschte ich wüsste wie man hier einen tränen lachenden Smiley aus whatsapp
+hieneinbekommt.
+
+
+
+
+
+
 
