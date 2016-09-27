@@ -81,5 +81,21 @@ hieneinbekommt.
 
 
 
+Hallo,
+ich trau diesem ganzen Git/GitHub noch nich so richtig, ich steig hier einfach noch nicht durch!
+Sei es drum, dauert noch.
+Unter anderem werde ich heute versuchen, aus verschachtelten Anweisungen sinnvolle 
+Methoden herauszuziehen und damit schöner machen (bestenfalls auch funktional)
+Wenn es zuviel wird (zu lange über eines zu grübeln) lese ich über etwas anderes
+oder schau mir andere Aufgaben an...ich fang übrigens an wirres Zeug zu träumen, 
+ich schätze das ist ein gutes Zeichen, Synapsen die lange rumgelegen haben oder 
+auch erst wachsen, werden ordentlich gefordert.
+In diesem Sinne.
+Gruß, Dluzak
+
+P.S.: Mach ich das hier eigentlich richtig? Ich bin nicht sicher!
+
+
+
 
 
