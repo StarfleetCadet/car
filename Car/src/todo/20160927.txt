@@ -1,0 +1,24 @@
+Hallo,
+ich trau diesem ganzen Git/GitHub noch nich so richtig, ich steig hier einfach noch nicht durch!
+Sei es drum, dauert noch.
+
+HH: na immerhin sehe ich die änderungen hier, also schon ganz gut :-)
+
+Unter anderem werde ich heute versuchen, aus verschachtelten Anweisungen sinnvolle
+Methoden herauszuziehen und damit schöner machen (bestenfalls auch funktional)
+
+HH: WICHTIG: hier will ich das vorher und nachher sehen! also extra ordner, code rein, committen,
+dann bearbeiten und alle wichtigen abschnitte committen, spätestens wenn fertig wieder committen, ok?
+
+Wenn es zuviel wird (zu lange über eines zu grübeln) lese ich über etwas anderes
+oder schau mir andere Aufgaben an...ich fang übrigens an wirres Zeug zu träumen,
+ich schätze das ist ein gutes Zeichen, Synapsen die lange rumgelegen haben oder
+auch erst wachsen, werden ordentlich gefordert.
+In diesem Sinne.
+Gruß, Dluzak
+
+P.S.: Mach ich das hier eigentlich richtig? Ich bin nicht sicher!
+
+HH: ja, alles gut, bis auf das problem, dass es nur eine datei war. habe jetzt alles getrennt und versucht tage zuzuordnen.
+schauen sie sich die dateinamen an - das ist das jeweilige datum und so übersichtlicher
+also jeden tag eine neue datei anlegen und weiter so...
